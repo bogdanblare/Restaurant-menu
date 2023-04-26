@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "error",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "1",
+  "license": "ISC",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
