@@ -4,7 +4,7 @@
   "description": "test",
   "main": "./js/index.js",
   "scripts": {
-    "test": "error",
+    "start": "open index.html",
     "dev": "webpack --mode development"
   },
   "repository": {
